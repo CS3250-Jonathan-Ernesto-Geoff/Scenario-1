@@ -1,3 +1,5 @@
 favorite foods
 
 pasta
+pizza
+salad
