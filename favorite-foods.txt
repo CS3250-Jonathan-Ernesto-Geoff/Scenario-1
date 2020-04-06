@@ -6,4 +6,4 @@ pizza
 salad
 tacos
 Sandwiches
-burritos
+sushi
