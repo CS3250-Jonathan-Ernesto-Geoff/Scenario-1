@@ -7,3 +7,8 @@ salad
 tacos
 Sandwiches
 sushi
+fries
+burritos
+ice cream
+
+
