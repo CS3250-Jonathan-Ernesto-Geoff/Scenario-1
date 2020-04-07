@@ -1,3 +1,5 @@
 Dogs
 Lizards
-
+Penguins
+Dolphins
+Artic Wolves
