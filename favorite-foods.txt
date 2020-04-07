@@ -5,10 +5,11 @@ wings
 pizza
 salad
 tacos
-Sandwiches
+sandwiches
 sushi
 fries
 burritos
 ice cream
-
-
+hashbrowns
+omlets
+toast
